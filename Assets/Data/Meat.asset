@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f748e6c6d84b1149b459a7019edc828, type: 3}
+  m_Name: Meat
+  m_EditorClassIdentifier: 
+  m_Id: 2
+  m_RawIcon: {fileID: 21300000, guid: d8f02ec11880f2c4da92771a40ed933b, type: 3}
+  m_ProcessedIcon: {fileID: 21300000, guid: e779b4658f691694f92557b451672769, type: 3}
+  m_DisplayName: Meat
+  m_ScoreValue: 40
+  m_RequiresProcessing: 1
+  m_RequiredProcess: 2
+  m_RawPrefab: {fileID: 6621089219657051185, guid: 672787d56a1fab44992b3413e2661a6f, type: 3}
+  m_ProcessedPrefab: {fileID: 3573495320459646475, guid: 4d8a011dbd9a7684eac99214de375367, type: 3}

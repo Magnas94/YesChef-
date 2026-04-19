@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f748e6c6d84b1149b459a7019edc828, type: 3}
+  m_Name: Vegetables
+  m_EditorClassIdentifier: 
+  m_Id: 2
+  m_RawIcon: {fileID: 21300000, guid: 3861bdd6f54a44c42854d54ccebb6634, type: 3}
+  m_ProcessedIcon: {fileID: 21300000, guid: dce9eb4a0c718ab49ab194a8fee65df8, type: 3}
+  m_DisplayName: Vegetable
+  m_ScoreValue: 30
+  m_RequiresProcessing: 1
+  m_RequiredProcess: 1
+  m_RawPrefab: {fileID: 3480918734701850747, guid: 4faefdb3bd974b141a37ec50fe616bbb, type: 3}
+  m_ProcessedPrefab: {fileID: 6314570153119172050, guid: 5837deb5d5b4eb84eb784ccfb34b022e, type: 3}
