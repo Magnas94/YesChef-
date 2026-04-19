@@ -50,6 +50,7 @@ public class UIManager : MonoBehaviour
 
     public void ShowGameOverScreen(int a_Score, int a_HiScore) 
     {
+        m_GameOverScreen.SetActive(true);
         m_CurrentScoreText.text = a_Score.ToString();
         m_HighScoreText.text = a_HiScore.ToString();
         m_TotalOrdersServedText.text = GameManager.instance.TotalOrdersServed.ToString();

@@ -68,6 +68,7 @@ public class GameManager : MonoBehaviour
     void EndGame()
     {
         Debug.Log("Game Over");
+        m_UIManager.ShowGameOverScreen(m_Score, m_HighScore);
         m_GameRunning = false;
     }
 }
